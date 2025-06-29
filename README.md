@@ -1,5 +1,5 @@
 ##  Project Description  
-This repository implements a **deep learning model** to detect Higgs boson signals in particle collision data from CERN's LHC experiments. The system:  
+This Project implements a **deep learning model** to detect Higgs boson signals in particle collision data from CERN's LHC experiments. The system:  
 
 - Processes **30 anonymized physics features** using a custom TensorFlow/Keras pipeline  
 - Uses a **3-layer neural network** with dropout/BatchNorm for regularization  
